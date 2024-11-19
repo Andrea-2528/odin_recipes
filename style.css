@@ -17,6 +17,7 @@
     color: hsl(25, 86%, 20%);
     border: 2px solid;
     border-color: hsl(25, 86%, 20%);
+    padding: 10px;
 }
 
 .subtitle {
